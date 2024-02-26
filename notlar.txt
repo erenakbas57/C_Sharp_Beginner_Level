@@ -1,0 +1,1 @@
+21. ve 22 ADO.NET ve Entity Framework ile proje videolarını yap (try-catch egzersizinden sonra geliyor. ) 23 de var
