@@ -1,0 +1,41 @@
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\bin\Debug\1.RecapDemo.exe.config
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\bin\Debug\1.RecapDemo.exe
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\bin\Debug\1.RecapDemo.pdb
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\obj\Debug\1.RecapDemo.csprojAssemblyReference.cache
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\obj\Debug\_1.RecapDemo.Form1.resources
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\obj\Debug\_1.RecapDemo.Properties.Resources.resources
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\obj\Debug\1.RecapDemo.csproj.GenerateResource.cache
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\obj\Debug\1.RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\obj\Debug\1.RecapDemo.exe
+C:\Users\erena\Desktop\C# BTK (VİSUAL STUDİO)\1.RecapDemo\obj\Debug\1.RecapDemo.pdb
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.exe.config
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.exe
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.pdb
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csprojAssemblyReference.cache
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\obj\Debug\_1.RecapDemo.Form1.resources
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\obj\Debug\_1.RecapDemo.Properties.Resources.resources
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.GenerateResource.cache
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.exe
+C:\Users\EREN AKBAŞ\Desktop\C# BTK (VİSUAL STUDİO)\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.pdb
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.exe.config
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.exe
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.pdb
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.AssemblyReference.cache
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\_1.RecapDemo.Form1.resources
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\_1.RecapDemo.Properties.Resources.resources
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.GenerateResource.cache
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.exe
+C:\Users\AKBAS\Desktop\SOFTWARE\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.pdb
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.exe.config
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.exe
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\bin\Debug\1.RecapDemo.pdb
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.AssemblyReference.cache
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\obj\Debug\_1.RecapDemo.Form1.resources
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\obj\Debug\_1.RecapDemo.Properties.Resources.resources
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.GenerateResource.cache
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.exe
+C:\Users\erena\Desktop\C#\9.RecapDemo(ÖRNEK)\obj\Debug\1.RecapDemo.pdb

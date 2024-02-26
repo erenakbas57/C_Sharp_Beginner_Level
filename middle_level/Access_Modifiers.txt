@@ -1,0 +1,8 @@
+// private : sadece tanımlandığı blok içinde kullanılabilir. İnheritance edilirse bile kullanılmaz.
+
+// protected : sadece tanımlandığı blok içinden erişilebilir. Artı yönü ise inheritance edilirse de kullanılabilir.
+
+// internal : class'ın default hali internal'dır. aynı proje içindeki her şey kullanabilir.
+
+// public : başka proje içinde bile kullanılabilir.
+// yapılması gerekenler: 1. Using kısmına projeyi eklemek. 2. Referans kısmına projeyi eklemek
